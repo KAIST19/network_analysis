@@ -1,3 +1,3 @@
 # Network Visualization
 
-[Graph visualization](graph-visualization)
+[Graph visualization](graph_visualization)
